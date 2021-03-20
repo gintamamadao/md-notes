@@ -2,6 +2,7 @@
 
 - [/](./root.md)
 - [../](./ECMAScript变量声明.md)
+- [../](./ECMAScript作用域.md)
 
 # Child Node
 

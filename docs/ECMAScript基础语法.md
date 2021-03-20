@@ -7,5 +7,6 @@
 
 - [ECMAScript 数据类型](./ECMAScript数据类型.md)
 - [ECMAScript 变量声明](./ECMAScript变量声明.md)
+- [ECMAScript 作用域](./ECMAScript作用域.md)
 
 # Detail
