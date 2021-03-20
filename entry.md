@@ -1,1 +1,1 @@
-- [start](./docs/start.md)
+- [start](./docs/root.md)
