@@ -1,0 +1,10 @@
+# Parent Node
+
+- [/](./root.md)
+- [../](./ECMAScript.md)
+
+# Child Node
+
+- [ECMAScript 基础语法](./ECMAScript基础语法.md)
+
+# Detail
