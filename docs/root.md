@@ -1,6 +1,6 @@
 # Parent Node
 
-- [../](../entry.md)
+- [Entry Node](../entry.md)
 
 # Child Node
 
