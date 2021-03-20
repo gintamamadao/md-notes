@@ -1,6 +1,6 @@
 # Parent Node
 
-- [../](./start.md)
+- [/](./start.md)
 - [../](./计算机语言.md)
 
 # Child Node
