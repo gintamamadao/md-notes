@@ -10,6 +10,7 @@
 - [CommonJS 模块封装标准](./CommonJS模块封装标准.md)
 - [AMD 模块封装标准](./AMD模块封装标准.md)
 - [CMD 模块封装标准](./CMD模块封装标准.md)
+- [UMD 模块封装标准](./UMD模块封装标准.md)
 
 # Detail
 
