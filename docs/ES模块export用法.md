@@ -21,7 +21,6 @@ export const fn;
 
 ````js
 export * from 'pkg';
-```t fn;
 ````
 
 ```js
