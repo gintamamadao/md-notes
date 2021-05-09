@@ -5,6 +5,7 @@
 
 # Child Node
 
+- [js package 管理工具](./jspackage管理工具.md)
 - [npm package](./npmpackage.md)
 
 # Detail
