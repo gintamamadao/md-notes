@@ -11,7 +11,7 @@
 - [Promise then](./Promisethen.md)
 - [Promise catch](./Promisecatch.md)
 - [Promise finally](./Promisefinally.md)
-- [Promise 多次 resolve](./Promise多次resolve.md)
+- [Promise resolve](./Promisresolve.md)
 - [Promise 高阶](./Promise高阶.md)
 
 # Detail
