@@ -33,7 +33,14 @@
 
 - [ECMAScript 箭头函数](./ECMAScript箭头函数.md)
 - [ECMAScript rest 参数](./ECMAScriptrest参数.md)
+- [ECMAScript Promise](./ECMAScriptPromise.md)
+- [ECMAScript class](./ECMAScriptclass.md)
 - [ECMAScript 修饰器](./ECMAScript修饰器.md)
+- [ECMAScript 解构](./ECMAScript解构.md)
+- [ECMAScript Generator](./ECMAScriptGenerator.md)
+- [ECMAScript async/await](./ECMAScriptasyncawait.md)
+- [ECMAScript Set](./ECMAScriptSet.md)
+- [ECMAScript Map](./ECMAScriptMap.md)
 - [ECMAScript worker](./ECMAScriptworker.md)
 
 # Detail
