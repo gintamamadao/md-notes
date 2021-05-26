@@ -9,5 +9,6 @@
 - [Object api](./Objectapi.md)
 - [Array api](./Arrayapi.md)
 - [Number api](./Numberapi.md)
+- [Promise api](./Promiseapi.md)
 
 # Detail

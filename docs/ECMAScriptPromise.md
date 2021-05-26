@@ -7,7 +7,7 @@
 
 - [Promise 状态](./Promise状态.md)
 - [Promise 执行过程](./Promise执行过程.md)
-- [Promise 方法](./Promise方法.md)
+- [Promise api](./Promiseapi.md)
 - [Promise then](./Promisethen.md)
 - [Promise catch](./Promisecatch.md)
 - [Promise finally](./Promisefinally.md)
