@@ -3,6 +3,7 @@
 - [/](./root.md)
 - [../](./ECMAScript学习杂记.md)
 - [../](./NumbertoString.md)
+- [../](./number.md)
 
 # Child Node
 
