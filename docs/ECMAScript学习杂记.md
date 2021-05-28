@@ -26,5 +26,9 @@
 
 - [js ajax 上传图片](./jsajax上传图片.md)
 - [js 处理 octet-stream 的 response](./js处理octet-stream的response.md)
+## 2021-01
+
+- [js ajax 上传图片](./jsajax上传图片.md)
+- [js 处理 octet-stream 的 response](./js处理octet-stream的response.md)
 
 # Detail
