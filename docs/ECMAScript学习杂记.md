@@ -18,5 +18,12 @@
 ## 2021-03
 
 - [js 实现 textarea 按照文本长度变化行数](./js实现textarea按照文本长度变化行数.md)
+- [js 实现一个 bind](./js实现一个bind.md)
+- [js promise 的 es5 简单实现](./jspromise的es5简单实现.md)
+- [js 实现 compose 函数](./js实现compose函数.md)
+
+## 2021-04
+
+- [js ajax 上传图片](./jsajax上传图片.md)
 
 # Detail
