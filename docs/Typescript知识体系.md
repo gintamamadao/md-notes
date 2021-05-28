@@ -1,7 +1,7 @@
 # Parent Node
 
 - [/](./root.md)
-- [../](./Typescript.md)
+- [Typescript](./Typescript.md)
 
 # Child Node
 

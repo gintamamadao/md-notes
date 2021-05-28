@@ -1,7 +1,7 @@
 # Parent Node
 
 - [/](./root.md)
-- [../](./ECMAScript插件依赖.md)
+- [ECMAScript 插件依赖](./ECMAScript插件依赖.md)
 
 # Child Node
 

@@ -1,7 +1,7 @@
 # Parent Node
 
 - [/](./root.md)
-- [../](./HTML.md)
+- [HTML](./HTML.md)
 
 # Child Node
 

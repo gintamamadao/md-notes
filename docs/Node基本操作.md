@@ -1,7 +1,7 @@
 # Parent Node
 
 - [/](./root.md)
-- [../](./NodeJS.md)
+- [NodeJS](./NodeJS.md)
 
 # Child Node
 

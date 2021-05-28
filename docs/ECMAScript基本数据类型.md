@@ -1,7 +1,7 @@
 # Parent Node
 
 - [/](./root.md)
-- [../](./ECMAScript数据类型.md)
+- [ECMAScript 数据类型](./ECMAScript数据类型.md)
 
 # Child Node
 

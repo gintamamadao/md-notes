@@ -1,7 +1,7 @@
 # Parent Node
 
 - [/](./root.md)
-- [../](./ECMAScript变量声明.md)
+- [ECMAScript 变量声明](./ECMAScript变量声明.md)
 
 # Child Node
 

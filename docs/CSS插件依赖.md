@@ -1,7 +1,7 @@
 # Parent Node
 
 - [/](./root.md)
-- [../](./CSS.md)
+- [CSS](./CSS.md)
 
 # Child Node
 

@@ -1,7 +1,7 @@
 # Parent Node
 
 - [/](./root.md)
-- [../](./Promisethen.md)
+- [Promise then](./Promisethen.md)
 
 # Child Node
 

@@ -1,7 +1,7 @@
 # Parent Node
 
 - [/](./root.md)
-- [../](./YAML.md)
+- [YAML](./YAML.md)
 
 # Child Node
 

@@ -1,7 +1,7 @@
 # Parent Node
 
 - [/](./root.md)
-- [../](./Typescript条件类型infer.md)
+- [Typescript 条件类型 infer](./Typescript条件类型infer.md)
 
 # Child Node
 

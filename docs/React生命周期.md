@@ -1,7 +1,7 @@
 # Parent Node
 
 - [/](./root.md)
-- [../](./React知识体系.md)
+- [React 知识体系](./React知识体系.md)
 
 # Child Node
 

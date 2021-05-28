@@ -1,8 +1,8 @@
 # Parent Node
 
 - [/](./root.md)
-- [../](./ECMAScriptPromise.md)
-- [../](./ECMAScriptapi.md)
+- [ECMAScript Promise](./ECMAScriptPromise.md)
+- [ECMAScript api](./ECMAScriptapi.md)
 
 # Child Node
 
