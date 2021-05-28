@@ -22,8 +22,9 @@
 - [js promise 的 es5 简单实现](./jspromise的es5简单实现.md)
 - [js 实现 compose 函数](./js实现compose函数.md)
 
-## 2021-04
+## 2021-02
 
 - [js ajax 上传图片](./jsajax上传图片.md)
+- [js 处理 octet-stream 的 response](./js处理octet-stream的response.md)
 
 # Detail
