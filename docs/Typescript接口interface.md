@@ -1,6 +1,6 @@
 # Parent Node
 
-- [root](./root.md)
+- [ROOT](./root.md)
 - [Typescript 类型声明](./Typescript类型声明.md)
 
 # Child Node

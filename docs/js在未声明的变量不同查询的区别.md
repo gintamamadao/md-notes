@@ -1,6 +1,6 @@
 # Parent Node
 
-- [root](./root.md)
+- [ROOT](./root.md)
 - [js 变量查询](./js变量查询.md)
 
 # Child Node

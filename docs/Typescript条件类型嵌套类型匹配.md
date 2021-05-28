@@ -1,6 +1,6 @@
 # Parent Node
 
-- [root](./root.md)
+- [ROOT](./root.md)
 - [Typescript 条件类型](./Typescript条件类型.md)
 
 # Child Node

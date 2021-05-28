@@ -1,6 +1,6 @@
 # Parent Node
 
-- [root](./root.md)
+- [ROOT](./root.md)
 - [ECMAScript Promise](./ECMAScriptPromise.md)
 
 # Child Node

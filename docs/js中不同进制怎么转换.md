@@ -1,6 +1,6 @@
 # Parent Node
 
-- [root](./root.md)
+- [ROOT](./root.md)
 - [ECMAScript 学习杂记](./ECMAScript学习杂记.md)
 - [Number toString](./NumbertoString.md)
 - [number](./number.md)

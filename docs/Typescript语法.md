@@ -1,6 +1,6 @@
 # Parent Node
 
-- [root](./root.md)
+- [ROOT](./root.md)
 - [Typescript 知识体系](./Typescript知识体系.md)
 
 # Child Node
@@ -22,5 +22,12 @@
 - [Typescript 类型继承](./Typescript类型继承.md)
 - [Typescript 条件类型](./Typescript条件类型.md)
 - [Typescript 类型谓词 is](./Typescript类型谓词is.md)
+
+## Section-3
+
+- [Typescript 全局模块](./Typescript全局模块.md)
+- [Typescript 文件模块](./Typescript文件模块.md)
+- [Typescript 查找文件](./Typescript查找文件.md)
+- [Typescript 模块声明](./Typescript模块声明.md)
 
 # Typescript 语法

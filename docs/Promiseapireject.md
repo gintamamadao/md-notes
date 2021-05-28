@@ -1,6 +1,6 @@
 # Parent Node
 
-- [root](./root.md)
+- [ROOT](./root.md)
 - [Promise api](./Promiseapi.md)
 
 # Child Node

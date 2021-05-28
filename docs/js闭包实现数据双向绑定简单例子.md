@@ -1,6 +1,6 @@
 # Parent Node
 
-- [root](./root.md)
+- [ROOT](./root.md)
 - [js 闭包使用场景](./js闭包使用场景.md)
 
 # Child Node

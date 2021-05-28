@@ -1,6 +1,6 @@
 # Parent Node
 
-- [root](./root.md)
+- [ROOT](./root.md)
 - [CMD 模块封装标准](./CMD模块封装标准.md)
 
 # Child Node
