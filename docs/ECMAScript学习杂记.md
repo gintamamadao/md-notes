@@ -26,9 +26,19 @@
 
 - [js ajax 上传图片](./jsajax上传图片.md)
 - [js 处理 octet-stream 的 response](./js处理octet-stream的response.md)
+
 ## 2021-01
 
 - [js ajax 上传图片](./jsajax上传图片.md)
 - [js 处理 octet-stream 的 response](./js处理octet-stream的response.md)
+- [js 实现节流](./js实现节流.md)
+- [js 实现防抖](./js实现防抖.md)
+- [js 监听派发](./js监听派发.md)
+- [js 事件代理](./js事件代理.md)
+
+## 2020-12
+
+- [js 柯里化 curry 函数](./js柯里化curry函数.md)
+- [js 实现一个元素为100个的数组](./js实现一个元素为100个的数组.md)
 
 # Detail

@@ -1,0 +1,26 @@
+# Parent Node
+
+- [/](./root.md)
+- [../](./ECMAScript学习杂记.md)
+
+# Child Node
+
+# Detail
+
+```js
+function debounce(fn, delay) {
+  let delays = delay || 500;
+  let timer;
+  return function () {
+    let th = this;
+    let args = arguments;
+    if (timer) {
+      clearTimeout(timer);
+    }
+    timer = setTimeout(function () {
+      timer = null;
+      fn.apply(th, args);
+    }, delays);
+  };
+}
+```
