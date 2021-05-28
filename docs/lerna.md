@@ -1,7 +1,7 @@
 # Parent Node
 
 - [/](./root.md)
-- [../](./jspackage管理工具.md)
+- [../](./ECMAScript插件依赖.md)
 
 # Child Node
 
