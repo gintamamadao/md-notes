@@ -13,7 +13,9 @@
 ## Section-2
 
 - [Typescript 类型声明](./Typescript类型声明.md)
+- [Typescript 类型索引](./Typescript类型索引.md)
+- [Typescript 类型继承](./Typescript类型继承.md)
+- [Typescript 条件类型](./Typescript条件类型.md)
 - [Typescript 类型谓词 is](./Typescript类型谓词is.md)
-- [Typescript 类型推断 infer](./Typescript类型推断infer.md)
 
 # Detail

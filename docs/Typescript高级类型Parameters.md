@@ -2,6 +2,7 @@
 
 - [/](./root.md)
 - [../](./Typescript类型推断infer.md)
+- [../](./Typescript条件类型infer.md)
 
 # Child Node
 
