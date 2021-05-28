@@ -10,5 +10,6 @@
 - [Array api](./Arrayapi.md)
 - [Number api](./Numberapi.md)
 - [Promise api](./Promiseapi.md)
+- [URLSearchParams](./URLSearchParams.md)
 
 # Detail
