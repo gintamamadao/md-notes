@@ -1,6 +1,6 @@
 # Parent Node
 
-- [/](./root.md)
+- [root](./root.md)
 - [Number api](./Numberapi.md)
 
 # Child Node

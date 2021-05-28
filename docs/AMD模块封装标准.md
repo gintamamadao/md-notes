@@ -1,6 +1,6 @@
 # Parent Node
 
-- [/](./root.md)
+- [root](./root.md)
 - [ECMAScript 模块封装](./ECMAScript模块封装.md)
 
 # Child Node

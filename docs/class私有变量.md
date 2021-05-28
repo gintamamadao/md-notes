@@ -1,6 +1,6 @@
 # Parent Node
 
-- [/](./root.md)
+- [root](./root.md)
 - [ECMAScript class](./ECMAScriptclass.md)
 
 # Child Node

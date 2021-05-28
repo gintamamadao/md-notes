@@ -1,6 +1,6 @@
 # Parent Node
 
-- [/](./root.md)
+- [root](./root.md)
 - [js 垃圾内存回收](./js垃圾内存回收.md)
 
 # Child Node

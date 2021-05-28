@@ -1,6 +1,6 @@
 # Parent Node
 
-- [/](./root.md)
+- [root](./root.md)
 - [ES 模块封装标准](./ES模块封装标准.md)
 
 # Child Node

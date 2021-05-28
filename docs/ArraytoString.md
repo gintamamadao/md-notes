@@ -1,6 +1,6 @@
 # Parent Node
 
-- [/](./root.md)
+- [root](./root.md)
 - [Array api](./Arrayapi.md)
 
 # Child Node
