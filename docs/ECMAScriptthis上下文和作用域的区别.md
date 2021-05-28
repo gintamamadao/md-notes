@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# ECMAScript this 上下文和作用域的区别
 
 - `作用域`: 变量的可见性
 - `上下文`: 在相同作用域下的 This 值

@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js promise 的 es5 简单实现
 
 ```js
 function TestPromise(fn) {

@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Typescript 中的 type 和 interface 的不同
 
 - type 缺可以通过交叉类型 实现 interface 的 extend 行为
 - type 可以声明基本类型别名，联合类型，交叉类型元组等类型

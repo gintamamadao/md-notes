@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 闭包实现数据双向绑定简单例子
 
 ```js
 function createCache() {

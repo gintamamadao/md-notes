@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 构造函数继承
 
 - 在子类的构造函数中，通过 apply ( ) 或 call ( )的形式，调用父类构造函数，以实现继承
 

@@ -5,4 +5,4 @@
 
 # Child Node
 
-# Detail
+# UMD 模块封装标准

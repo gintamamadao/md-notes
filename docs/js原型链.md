@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 原型链
 
 - 对象的 `__proto__` 指向自己构造函数的 `prototype`
 - `prototype` 也是对象，也有 `__proto__` 属性

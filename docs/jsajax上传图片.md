@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js ajax 上传图片
 
 ```js
 var xhr = new XMLHttpRequest();

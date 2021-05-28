@@ -10,4 +10,4 @@
 - [class static](./classstatic.md)
 - [class 和 function 的区别](./class和function的区别.md)
 
-# Detail
+# ECMAScript class

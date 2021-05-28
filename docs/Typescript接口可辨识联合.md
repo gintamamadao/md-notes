@@ -5,4 +5,4 @@
 
 # Child Node
 
-# Detail
+# Typescript 接口可辨识联合

@@ -9,4 +9,4 @@
 - [Typescript 别名 type](./Typescript别名type.md)
 - [Typescript 中的 type 和 interface 的不同](./Typescript中的type和interface的不同.md)
 
-# Detail
+# Typescript 类型声明

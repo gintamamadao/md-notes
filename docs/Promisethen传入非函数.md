@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Promise then 传入非函数
 
 ```js
 Promise.resolve(1).then(2).then(Promise.resolve(3)).then(console.log);

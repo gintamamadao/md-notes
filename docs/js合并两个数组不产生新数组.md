@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 合并两个数组不产生新数组
 
 ```js
 Array.prototype.push.apply([1, 2, 3], [5, 6]);

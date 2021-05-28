@@ -83,4 +83,4 @@
 
 - [node grpc](./nodegrpc.md)
 
-# Detail
+# ECMAScript 插件依赖

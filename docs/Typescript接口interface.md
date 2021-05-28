@@ -10,4 +10,4 @@
 - [Typescript 接口只读属性](./Typescript接口只读属性.md)
 - [Typescript 接口可辨识联合](./Typescript接口可辨识联合.md)
 
-# Detail
+# Typescript 接口 interface

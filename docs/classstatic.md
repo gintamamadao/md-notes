@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# class static
 
 ```js
 class Colors {

@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# ECMAScript 严格模式
 
 - 通过在脚本的最顶端放上一个特定语句 "use strict";
 - 整个脚本就可开启严格模式语法。

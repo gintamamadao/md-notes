@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# null undefined 比较
 
 - null == undefined 比较结果是 true
 - null、undefined 和自己的比较结果为 true

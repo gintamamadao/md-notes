@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# ECMAScript 箭头函数
 
 - 箭头函数在定义时已经绑定了上下文, 就是函数的 this 总是指向定义时所在环境的 this, 而不是函数的调用者。
 - 无法通过 apply, call, bind 等改变函数体内的 this

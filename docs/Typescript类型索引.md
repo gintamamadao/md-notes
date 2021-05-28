@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Typescript 类型索引
 
 ```ts
 function getProperty<T, K extends keyof T>(o: T, name: K): T[K] {

@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Typescript 高级类型 Parameters
 
 ```ts
 /**

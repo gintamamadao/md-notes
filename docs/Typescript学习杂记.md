@@ -11,4 +11,4 @@
 
 ## 2021-04
 
-# Detail
+# Typescript 学习杂记

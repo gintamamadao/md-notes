@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Promise finally
 
 - 多个 finally 注册时按顺序执行
 - finally 不可忽略，then 可以忽略

@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Typescript 条件类型 extends
 
 - 类型本身是没有 true 和 false 的概念，但有是否适配的概念
 - 条件类型中的条件就是指是否适配

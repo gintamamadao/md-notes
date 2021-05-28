@@ -5,4 +5,4 @@
 
 # Child Node
 
-# Detail
+# CSS 插件依赖

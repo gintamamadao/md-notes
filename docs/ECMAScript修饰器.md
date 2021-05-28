@@ -5,4 +5,4 @@
 
 # Child Node
 
-# Detail
+# ECMAScript 修饰器

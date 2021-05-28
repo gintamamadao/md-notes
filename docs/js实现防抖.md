@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 实现防抖
 
 ```js
 function debounce(fn, delay) {

@@ -13,7 +13,7 @@
 - [symbol](./symbol.md)
 - [bigInt](./bigInt.md)
 
-# Detail
+# ECMAScript 基本数据类型
 
 - 特点：
   - 存储在栈内存中，因为基本类型的大小是固定，在栈内可以快速查找

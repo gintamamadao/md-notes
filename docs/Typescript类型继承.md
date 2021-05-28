@@ -7,7 +7,7 @@
 
 - [Typescript 类型继承 extends](./Typescript类型继承extends.md)
 
-# Detail
+# Typescript 类型继承
 
 - 和类一样，接口也可以相互继承。
 - 这让我们能够从一个接口里复制成员到另一个接口里，可以更灵活地将接口分割到可重用的模块里。

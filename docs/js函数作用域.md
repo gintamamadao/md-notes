@@ -5,6 +5,6 @@
 
 # Child Node
 
-# Detail
+# js 函数作用域
 
 - 运行函数时产生

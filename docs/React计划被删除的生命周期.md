@@ -5,4 +5,4 @@
 
 # Child Node
 
-# Detail
+# React 计划被删除的生命周期

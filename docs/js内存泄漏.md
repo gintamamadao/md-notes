@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 内存泄漏
 
 - 意外的全局变量
 - 闭包未释放的变量

@@ -10,4 +10,4 @@
 - [NodeJS 学习杂记](./Node学习杂记.md)
 - [NodeJS 插件依赖](./Node插件依赖.md)
 
-# Detail
+# NodeJS

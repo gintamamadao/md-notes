@@ -45,4 +45,4 @@
 - [js input 导入的文件转换成 base64](./jsinput导入的文件转换成base64.md)
 - [js canvas 压缩图片](./jscanvas压缩图片.md)
 
-# Detail
+# ECMAScript 学习杂记

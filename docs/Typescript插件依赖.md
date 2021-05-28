@@ -5,4 +5,4 @@
 
 # Child Node
 
-# Detail
+# Typescript 插件依赖

@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# AMD 模块封装标准
 
 - AMD 是"Asynchronous Module Definition"的简写，也就是异步模块定义。
 - 基于 commonJS 规范的 nodeJS 出来以后，服务端的模块概念已经形成，很自然地，大家就想要客户端模块

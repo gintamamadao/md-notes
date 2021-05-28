@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Promise 状态
 
 - pedding: 进行中
 - fulfilled: 已成功

@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Promise catch
 
 - catch 可以捕获 then 中抛出的错误
 - 跟在 catch 的后面的 then 会继续执行，但拿到的数据是空的

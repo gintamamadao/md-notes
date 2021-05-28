@@ -7,4 +7,4 @@
 
 - [Typescript 语法](./Typescript语法.md)
 
-# Detail
+# Typescript 知识体系

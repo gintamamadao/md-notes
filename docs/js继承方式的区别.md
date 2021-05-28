@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 继承方式的区别
 
 ```js
 function child() {}

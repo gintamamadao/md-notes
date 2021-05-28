@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 监听派发
 
 - 注册
   - 加入到相关事件的关联队列中

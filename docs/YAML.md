@@ -9,4 +9,4 @@
 - [YAML 学习杂记](./YAML学习杂记.md)
 - [YAML 插件依赖](./YAML插件依赖.md)
 
-# Detail
+# YAML

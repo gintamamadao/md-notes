@@ -5,4 +5,4 @@
 
 # Child Node
 
-# Detail
+# CommonJS 模块封装标准

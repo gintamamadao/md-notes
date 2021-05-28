@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 实现 compose 函数
 
 ```js
 function compose() {

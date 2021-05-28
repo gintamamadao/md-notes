@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 处理 octet-stream 的 response
 
 - 用 a 标签下载
 - responseType 设置成 blob

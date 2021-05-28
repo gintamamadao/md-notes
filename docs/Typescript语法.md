@@ -18,4 +18,4 @@
 - [Typescript 条件类型](./Typescript条件类型.md)
 - [Typescript 类型谓词 is](./Typescript类型谓词is.md)
 
-# Detail
+# Typescript 语法

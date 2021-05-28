@@ -10,7 +10,7 @@
 - [React 学习杂记](./React学习杂记.md)
 - [React 插件依赖](./React插件依赖.md)
 
-# Detail
+# React
 
 ## 特点
 

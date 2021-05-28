@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# ES 模块 import 用法
 
 ```js
 import fn from "pkg";

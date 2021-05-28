@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# ES 模块 export 用法
 
 ```js
 export default fn;

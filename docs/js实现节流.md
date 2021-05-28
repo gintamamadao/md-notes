@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 实现节流
 
 ```js
 function throttle(fn, wait) {

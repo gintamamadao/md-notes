@@ -5,6 +5,6 @@
 
 # Child Node
 
-# Detail
+# js 模块作用域
 
 - 模块作用域是指 cjs 模块中的作用域

@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Promise 高阶
 
 - promise 里如果返回的结果也是 promise, 那 then 会自动跟踪这个 promise 的最后的值
 

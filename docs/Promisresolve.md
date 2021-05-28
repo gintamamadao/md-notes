@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Promise resolve
 
 ```js
 const promise = new Promise((resolve, reject) => {

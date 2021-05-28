@@ -5,4 +5,4 @@
 
 # Child Node
 
-# Detail
+# YAML 知识体系

@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Promise 执行过程
 
 - 新建 Promise 对象时, 要传入一个函数作为参数, 函数有两个形参 resolve 和 reject, 都是用于结束 Promise 的 pedding 状态的
 - 新建时就会立即同步执行, 异步返回结果

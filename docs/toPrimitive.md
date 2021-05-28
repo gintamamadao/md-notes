@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# toPrimitive
 
 - 基本类型直接返回，基本类型的值
 - 对象

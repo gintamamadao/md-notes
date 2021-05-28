@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Typescript 类型谓词 is
 
 ```ts
 function isFish(pet: Fish | Bird): pet is Fish {

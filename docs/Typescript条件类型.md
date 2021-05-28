@@ -9,7 +9,7 @@
 - [Typescript 条件类型 infer](./Typescript条件类型infer.md)
 - [Typescript 条件类型嵌套类型匹配](./Typescript条件类型嵌套类型匹配.md)
 
-# Detail
+# Typescript 条件类型
 
 - 条件类型是一种条件表达式进行类型的关系检测。
 

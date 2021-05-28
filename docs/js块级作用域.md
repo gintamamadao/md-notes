@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 块级作用域
 
 - es6 引入的作用域
 - 花括号内的作用域

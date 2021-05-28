@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# function 和 var
 
 - function 声明和 var 声明会被提前到代码最前面定义
 - 在提前到最前面定义时, var 声明仅仅是定义变量, 只有执行到相应代码才会执行变量赋值, 所以最前面时变量值为 `undefined`

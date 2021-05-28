@@ -43,4 +43,4 @@
 - [ECMAScript Map](./ECMAScriptMap.md)
 - [ECMAScript worker](./ECMAScriptworker.md)
 
-# Detail
+# ECMAScript 语法

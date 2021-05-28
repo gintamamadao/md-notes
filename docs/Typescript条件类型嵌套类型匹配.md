@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Typescript 条件类型嵌套类型匹配
 
 ```js
 type TypeName<T> =

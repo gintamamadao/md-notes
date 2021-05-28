@@ -5,4 +5,4 @@
 
 # Child Node
 
-# Detail
+# NodeJS 插件依赖

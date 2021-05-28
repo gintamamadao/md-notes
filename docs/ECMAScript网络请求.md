@@ -5,4 +5,4 @@
 
 # Child Node
 
-# Detail
+# ECMAScript 网络请求

@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 词法作用域
 
 - 又叫静态作用域
 - 预编译时产生

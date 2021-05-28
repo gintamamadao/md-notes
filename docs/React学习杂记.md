@@ -5,4 +5,4 @@
 
 # Child Node
 
-# Detail
+# React 学习杂记

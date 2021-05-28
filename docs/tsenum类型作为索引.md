@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# ts enum 类型作为索引
 
 ```ts
 enum Options {

@@ -9,7 +9,7 @@
 - [Typescript 高级类型 ReturnType](./Typescript高级类型ReturnType.md)
 - [Typescript 高级类型 InstanceType](./Typescript高级类型InstanceType.md)
 
-# Detail
+# Typescript 条件类型 infer
 
 - 使用 infer 声明一个类型变量，在 条件类型判定为 true 时生效
 

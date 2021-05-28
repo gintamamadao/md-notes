@@ -12,4 +12,4 @@
 - [Promise api](./Promiseapi.md)
 - [URLSearchParams](./URLSearchParams.md)
 
-# Detail
+# ECMAScript api

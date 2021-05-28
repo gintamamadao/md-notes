@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# CMD 和 AMD 的标准不同
 
 - SeaJS 对模块的态度是懒执行, 而 RequireJS 对模块的态度是预执行
 - AMD 是提前执行, 预先加载所有的依赖。

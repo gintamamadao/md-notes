@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 实现一个 bind
 
 ```js
 Function.prototype.mycall = function (context) {

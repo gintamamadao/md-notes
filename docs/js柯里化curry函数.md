@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 柯里化 curry 函数
 
 - 通过闭包的方式储存传入参数
 - 通过函数的 length 属性获得参数个数

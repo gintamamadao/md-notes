@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js input 导入的文件转换成 base64
 
 ```js
 const file = data.file;

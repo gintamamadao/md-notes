@@ -8,7 +8,7 @@
 - [js 闭包优缺点](./js闭包优缺点.md)
 - [js 闭包使用场景](./js闭包使用场景.md)
 
-# Detail
+# ECMAScript 闭包
 
 - JavaScript 中所有的函数都是一个闭包，
 - 有权访问上层作用域中的变量，

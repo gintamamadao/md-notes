@@ -12,4 +12,4 @@
 - [Promise api resolve](./Promiseapiresolve.md)
 - [Promise api allSettled](./PromiseapiallSettled.md)
 
-# Detail
+# Promise api

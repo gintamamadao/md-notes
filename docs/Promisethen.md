@@ -7,7 +7,7 @@
 
 - [Promise then 传入非函数](./Promisethen传入非函数.md)
 
-# Detail
+# Promise then
 
 - 多个 then 注册时按顺序执行
 - 跟在 catch 的后面的 then 会继续执行，但拿到的数据是空的

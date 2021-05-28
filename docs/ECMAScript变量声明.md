@@ -9,4 +9,4 @@
 - [let 和 const](./let和const.md)
 - [js 变量查询](./js变量查询.md)
 
-# Detail
+# ECMAScript 变量声明

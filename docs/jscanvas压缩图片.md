@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js canvas 压缩图片
 
 ```js
 

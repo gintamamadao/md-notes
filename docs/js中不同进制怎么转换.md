@@ -7,7 +7,7 @@
 
 # Child Node
 
-# Detail
+# js 中不同进制怎么转换
 
 ```js
 numObj.toString([radix]);

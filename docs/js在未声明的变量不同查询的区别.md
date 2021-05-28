@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 在未声明的变量不同查询的区别
 
 - LHS 查询会导致自动隐式地创建一个全局变量（非严格模式下），或者抛出 ReferenceError 异常（严格模式下）
 - RHS 查询会抛出 ReferenceError 异常。因为无法找到变量本身，进而无法找到变量的值，所以报错

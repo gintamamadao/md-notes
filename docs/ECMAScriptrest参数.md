@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# ECMAScript rest 参数
 
 ```js
 function fn(...args) {}

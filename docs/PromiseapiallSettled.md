@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Promise api allSettled
 
 ```js
 promise_1 = Promise.resolve("hello");

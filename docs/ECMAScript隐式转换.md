@@ -13,4 +13,4 @@
 - [toPrimitive](./toPrimitive.md)
 - [toString 和 valueOf 有什么区别](./toString和valueOf有什么区别.md)
 
-# Detail
+# ECMAScript 隐式转换

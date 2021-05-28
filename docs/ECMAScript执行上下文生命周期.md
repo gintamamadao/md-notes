@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# ECMAScript 执行上下文生命周期
 
 - 创建阶段
   - 生成变量对象

@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# class 私有变量
 
 - 使用 # 符号表示类的私有变量
 

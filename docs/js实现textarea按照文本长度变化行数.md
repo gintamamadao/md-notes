@@ -5,6 +5,6 @@
 
 # Child Node
 
-# Detail
+# js 实现 textarea 按照文本长度变化行数
 
 - 通过实时对比节点的 scrollHeight 和 clientHeight 实现变化

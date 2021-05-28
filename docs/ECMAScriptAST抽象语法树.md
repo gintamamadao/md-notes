@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# ECMAScript AST 抽象语法树
 
 - AST (Abstract Syntax Tree)是抽象语法树英文的缩写
 - AST 是对源代码的抽象语法结构的树状表现形式

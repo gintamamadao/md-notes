@@ -7,4 +7,4 @@
 
 - [Number toString](./NumbertoString.md)
 
-# Detail
+# Number api

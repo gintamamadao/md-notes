@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# Promise api resolve
 
 `Promise.resolve(value)`
 

@@ -14,4 +14,4 @@
 - [Promise resolve](./Promisresolve.md)
 - [Promise 高阶](./Promise高阶.md)
 
-# Detail
+# ECMAScript Promise

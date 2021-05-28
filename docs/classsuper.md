@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# class super
 
 - 调用父类的构造函数
 

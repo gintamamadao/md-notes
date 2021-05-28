@@ -5,7 +5,7 @@
 
 # Child Node
 
-# Detail
+# js 全局作用域
 
 - 作用域链顶端
 - window 函数的作用域

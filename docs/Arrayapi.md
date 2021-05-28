@@ -7,4 +7,4 @@
 
 - [Array toString](./ArraytoString.md)
 
-# Detail
+# Array api

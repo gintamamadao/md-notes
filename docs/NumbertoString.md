@@ -7,7 +7,7 @@
 
 - [js 中不同进制怎么转换](./js中不同进制怎么转换.md)
 
-# Detail
+# Number toString
 
 ```js
 numObj.toString([radix]);

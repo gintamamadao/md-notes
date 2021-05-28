@@ -10,7 +10,7 @@
 - [js RHS 查询](./jsRHS查询.md)
 - [js 在未声明的变量不同查询的区别](./js在未声明的变量不同查询的区别.md)
 
-# Detail
+# js 变量查询
 
 - LHS(Left-hand Side)引用和 RHS(Right-hand Side)引用。
 - 通常是指等号（赋值运算）的左右边的引用。
