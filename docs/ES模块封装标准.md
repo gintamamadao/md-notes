@@ -7,6 +7,7 @@
 
 - [ES 模块 import 用法](./ES模块import用法.md)
 - [ES 模块 export 用法](./ES模块export用法.md)
+
 # Detail
 
 - ES6 模块是动态引用，并且不会缓存值，模块里面的变量绑定其所在的模块

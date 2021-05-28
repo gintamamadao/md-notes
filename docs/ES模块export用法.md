@@ -19,9 +19,9 @@ export { fn };
 export const fn;
 ```
 
-````js
-export * from 'pkg';
-````
+```js
+export * from "pkg";
+```
 
 ```js
 export { default as fn } from "pkg";
