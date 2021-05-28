@@ -1,12 +1,13 @@
 # Parent Node
 
 - [/](./root.md)
-- [../](./ECMAScript基础语法.md)
+- [../](./ECMAScript语法.md)
 
 # Child Node
 
 - [js 闭包优缺点](./js闭包优缺点.md)
 - [js 闭包使用场景](./js闭包使用场景.md)
+
 # Detail
 
 - JavaScript 中所有的函数都是一个闭包，

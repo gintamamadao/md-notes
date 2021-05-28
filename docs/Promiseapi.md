@@ -2,7 +2,7 @@
 
 - [/](./root.md)
 - [../](./ECMAScriptPromise.md)
-- [../](./ECMAScriptapi语法.md)
+- [../](./ECMAScriptapi.md)
 
 # Child Node
 

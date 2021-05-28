@@ -5,7 +5,7 @@
 
 # Child Node
 
-- [ECMAScript 基础语法](./ECMAScript基础语法.md)
-- [ECMAScript api 语法](./ECMAScriptapi语法.md)
+- [ECMAScript 语法](./ECMAScript语法.md)
+- [ECMAScript api](./ECMAScriptapi.md)
 
 # Detail
