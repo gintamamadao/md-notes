@@ -1,11 +1,12 @@
 # Parent Node
 
-- [root](./root.md)
+- [/](./root.md)
 - [Typescript 条件类型 infer](./Typescript条件类型infer.md)
+- [Typescript 内置类型](./Typescript内置类型.md)
 
 # Child Node
 
-# Typescript 高级类型 InstanceType
+# Typescript 内置类型 InstanceType
 
 ```ts
 /**

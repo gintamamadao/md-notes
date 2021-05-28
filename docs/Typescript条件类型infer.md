@@ -5,9 +5,9 @@
 
 # Child Node
 
-- [Typescript 高级类型 Parameters](./Typescript高级类型Parameters.md)
-- [Typescript 高级类型 ReturnType](./Typescript高级类型ReturnType.md)
-- [Typescript 高级类型 InstanceType](./Typescript高级类型InstanceType.md)
+- [Typescript 内置类型 Parameters](./Typescript内置类型Parameters.md)
+- [Typescript 内置类型 ReturnType](./Typescript内置类型ReturnType.md)
+- [Typescript 内置类型 InstanceType](./Typescript内置类型InstanceType.md)
 
 # Typescript 条件类型 infer
 

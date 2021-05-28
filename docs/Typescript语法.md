@@ -9,6 +9,11 @@
 
 - [Typescript Tuple 类型](./TypescriptTuple类型.md)
 - [Typescript enum 类型](./Typescriptenum类型.md)
+- [Typescript 交叉类型](./Typescript交叉类型.md)
+- [Typescript 联合类型](./Typescript联合类型.md)
+- [Typescript 字面量类型](./Typescript字面量类型.md)
+- [Typescript never 类型](./Typescriptnever类型.md)
+- [Typescript 内置类型](./Typescript内置类型.md)
 
 ## Section-2
 
