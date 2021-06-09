@@ -5,6 +5,10 @@
 
 # Child Node
 
+## 2021-06
+
+- [location.replace 和 location.href 的区别](./locationreplace和locationhref的区别.md)
+
 ## 2021-05
 
 - [js 中不同进制怎么转换](./js中不同进制怎么转换.md)
