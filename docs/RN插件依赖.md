@@ -5,4 +5,6 @@
 
 # Child Node
 
+- [expo](./expo.md)
+
 # RN 插件依赖
