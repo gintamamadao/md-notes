@@ -1,7 +1,7 @@
 # Parent Node
 
 - [ROOT](./root.md)
-- [编程方向](./编程方向.md)
+- [前端](./前端.md)
 
 # Child Node
 
