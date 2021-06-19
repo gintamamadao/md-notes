@@ -9,6 +9,7 @@
 
 - [NodeJS](./NodeJS.md)
 - [Chrome](./Chrome.md)
+- [whistle](./whistle.md)
 
 ## 管理工具
 
@@ -49,6 +50,7 @@
 - [recyclerlistview](./recyclerlistview.md)
 - [qs](./qs.md)
 - [json-stringify-safe](./json-stringify-safe.md)
+- [json5](./json5.md)
 
 ## 前端开发编译打包
 
