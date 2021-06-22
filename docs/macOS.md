@@ -5,4 +5,7 @@
 
 # Child Node
 
+- [macOS 学习杂记](./macOS学习杂记.md)
+- [macOS 插件依赖](./macOS插件依赖.md)
+
 # macOS
