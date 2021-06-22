@@ -1,7 +1,7 @@
 # Parent Node
 
 - [ROOT](./root.md)
-- [协同开发工具](./协同开发工具.md)
+- [开发者工具](./开发者工具.md)
 
 # Child Node
 

@@ -7,9 +7,8 @@
 
 # whistle 插件开发代码目录和必须文件
 
--  必须在根目录有一个 index.js 文件作为 whistle 加载插件脚本
-
+- 必须在根目录有一个 index.js 文件作为 whistle 加载插件脚本
 
 ```js
-exports.server = require('./lib/index')
+exports.server = require("./lib/index");
 ```

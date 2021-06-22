@@ -7,7 +7,6 @@
 
 # whistle 插件开发修改响应报头
 
-
 ```js
-res.setHeader('content-type', json.contentType)
+res.setHeader("content-type", json.contentType);
 ```
