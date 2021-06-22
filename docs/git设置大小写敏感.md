@@ -1,7 +1,7 @@
 # Parent Node
 
 - [ROOT](./root.md)
-- [git 基本操作](./git基本操作.md)
+- [git 学习杂记](./git学习杂记.md)
 
 # Child Node
 
