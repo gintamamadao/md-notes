@@ -51,6 +51,7 @@
 - [qs](./qs.md)
 - [json-stringify-safe](./json-stringify-safe.md)
 - [json5](./json5.md)
+- [mustache](./mustache.md)
 
 ## 前端开发编译打包
 
