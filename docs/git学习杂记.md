@@ -7,6 +7,7 @@
 
 ## 2021-06
 
+- [git 设置代理 proxy](./git设置代理proxy.md)
 - [git 把 vscode 设为的默认编辑器](./git把vscode设为的默认编辑器.md)
 
 ## 2021-05
