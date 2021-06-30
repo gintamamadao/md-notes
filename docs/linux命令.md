@@ -10,5 +10,6 @@
 - [linux touch 命令](./linuxtouch命令.md)
 - [linux tail 命令](./linuxtail命令.md)
 - [linux cp 命令](./linuxcp命令.md)
+- [linux sed 命令](./linuxsed命令.md)
 
 # linux 命令
