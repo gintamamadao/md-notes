@@ -7,6 +7,9 @@
 
 ## 2021-06
 
+- [import type 含义](./importtype含义.md)
+## 2021-06
+
 - [location.replace 和 location.href 的区别](./locationreplace和locationhref的区别.md)
 
 ## 2021-05
