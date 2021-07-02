@@ -11,8 +11,8 @@
 - 比如需要将 function 修改为一个遍历申明，可以这样写
 
 ```js
-let newNode = t.variableDeclaration(
-'let', [t.variableDeclarator(t.identifier('a'), t.stringLiteral('123'))]
-)
-path.replaceWith(newNode)
+let newNode = t.variableDeclaration("let", [
+  t.variableDeclarator(t.identifier("a"), t.stringLiteral("123")),
+]);
+path.replaceWith(newNode);
 ```

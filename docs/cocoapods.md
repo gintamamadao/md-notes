@@ -7,4 +7,4 @@
 
 # cocoapods
 
-- CocoaPods是用 Ruby 编写的包管理器（可以理解为针对 iOS 的 npm）
+- CocoaPods 是用 Ruby 编写的包管理器（可以理解为针对 iOS 的 npm）
