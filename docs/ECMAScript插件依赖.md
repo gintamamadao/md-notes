@@ -39,20 +39,6 @@
 
 - [Redux](./Redux.md)
 
-## 前端开发工具
-
-- [copy-to-clipboard](./copy-to-clipboard.md)
-- [history](./history.md)
-- [axios](./axios.md)
-- [umi-request](./umi-request.md)
-- [whatwg-fetch](./whatwg-fetch.md)
-- [react-intl](./react-intl.md)
-- [recyclerlistview](./recyclerlistview.md)
-- [qs](./qs.md)
-- [json-stringify-safe](./json-stringify-safe.md)
-- [json5](./json5.md)
-- [mustache](./mustache.md)
-
 ## 前端开发编译打包
 
 - [Babel](./Babel.md)
@@ -69,6 +55,16 @@
 - [sass](./sass.md)
 - [postcss](./postcss.md)
 - [postcss-px-to-viewport](./postcss-px-to-viewport.md)
+
+## 前端 ui 相关
+
+- [react-intl](./react-intl.md)
+- [recyclerlistview](./recyclerlistview.md)
+
+## 浏览器 api 相关
+
+- [copy-to-clipboard](./copy-to-clipboard.md)
+- [history](./history.md)
 
 ## 前端 UI 组件库
 
@@ -106,15 +102,75 @@
 
 - [node grpc](./nodegrpc.md)
 
-## cli、插件开发工具
-
-- [glob](./glob.md)
-
 ## js 单元测试、代码维护
 
 - [jest](./jest.md)
 - [Puppeteer](./Puppeteer.md)
 - [jsdom](./jsdom.md)
 - [create-test-server](./create-test-server.md)
+- [eslint](./eslint.md)
+- [husky](./husky.md)
+- [yorkie](./yorkie.md)
+- [lint-staged](./lint-staged.md)
+- [commitlint/cli](./commitlint-cli.md)
+- [conventional-changelog](./conventional-changelog.md)
+
+## 网络请求相关
+
+- [axios](./axios.md)
+- [umi-request](./umi-request.md)
+- [whatwg-fetch](./whatwg-fetch.md)
+- [react-intl](./react-intl.md)
+
+## 数据结构处理校验相关
+
+- [qs](./qs.md)
+- [json-stringify-safe](./json-stringify-safe.md)
+- [json5](./json5.md)
+- [lodash](./lodash.md)
+- [joi](./joi.md)
+- [class-validator](./class-validator.md)
+- [querystringify](./querystringify.md)
+- [path-to-regexp](./path-to-regexp.md)
+- [class-transformer](./class-transformer.md)
+- [camelcase-keys](./camelcase-keys.md)
+
+## 模板渲染相关
+
+- [mustache](./mustache.md)
+
+## 命令行工具
+
+- [rimraf](./rimraf.md)
+- [chalk](./chalk.md)
+- [cwd](./cwd.md)
+- [find-process](./find-process.md)
+- [prompts](./prompts.md)
+- [tree-kill](./tree-kill.md)
+- [wait-on](./wait-on.md)
+- [exit](./exit.md)
+- [signal-exit](./signal-exit.md)
+- [commander](./commander.md)
+- [liftoff](./liftoff.md)
+- [minimist](./minimist.md)
+- [shelljs](./shelljs.md)
+- [inquirer](./inquirer.md)
+- [glob](./glob.md)
+- [cpr](./cpr.md)
+- [npm-run-all](./npm-run-all.md)
+- [semver](./semver.md)
+- [tempy](./tempy.md)
+- [find-up](./findup.md)
+- [concurrently](./concurrently.md)
+- [chokidar](./chokidar.md)
+- [nodemon](./nodemon.md)
+- [download-git-repo](./download-git-repo.md)
+- [shelljs](./shelljs.md)
+
+## 文件读写处理
+
+- [json2csv](./json2csv.md)
+- [convert-csv-to-json](./convert-csv-to-json.md)
+- [xml2js](./xml2js.md)
 
 # ECMAScript 插件依赖
