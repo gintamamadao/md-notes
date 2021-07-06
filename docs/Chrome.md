@@ -6,4 +6,6 @@
 
 # Child Node
 
+- [chrome 插件依赖](./chrome插件依赖.md)
+
 # Chrome
