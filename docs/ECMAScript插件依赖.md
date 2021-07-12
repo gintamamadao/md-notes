@@ -120,6 +120,10 @@
 - [axios](./axios.md)
 - [umi-request](./umi-request.md)
 - [whatwg-fetch](./whatwg-fetch.md)
+- [got](./got.md)
+
+# 国际化
+
 - [react-intl](./react-intl.md)
 
 ## 数据结构处理校验相关
