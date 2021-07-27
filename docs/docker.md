@@ -2,6 +2,7 @@
 
 - [ROOT](./root.md)
 - [linux 插件依赖](./linux插件依赖.md)
+- [运维](./运维.md)
 
 # Child Node
 
