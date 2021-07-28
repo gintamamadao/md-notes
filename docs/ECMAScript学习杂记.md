@@ -8,7 +8,7 @@
 ## 2021-07
 
 - [`#__PURE__` 的含义](./__PURE__的含义.md)
-- [then(s, f) 和 then(s).catch(f)的差别](./then(sf)vsthen(s)catch(f).md)
+- [then(s, f) 和 then(s).catch(f)的差别](./thensfvsthenscatchf.md)
 
 ## 2021-06
 

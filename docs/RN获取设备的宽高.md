@@ -11,8 +11,7 @@
 - 当设备横置时，通过 Dimensions API 取到的宽大于高。
 - 当设备竖置时，通过 Dimensions API 取到的宽小于高。
 
-
 ```js
-const windowWidth = Dimensions.get('window').width;
-const windowHeight = Dimensions.get('window').height;
+const windowWidth = Dimensions.get("window").width;
+const windowHeight = Dimensions.get("window").height;
 ```
