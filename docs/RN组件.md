@@ -5,4 +5,4 @@
 
 # Child Node
 
-# RN 核心组件和 API
+# RN 组件
