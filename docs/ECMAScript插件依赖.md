@@ -169,7 +169,6 @@
 - [chokidar](./chokidar.md)
 - [nodemon](./nodemon.md)
 - [download-git-repo](./download-git-repo.md)
-- [shelljs](./shelljs.md)
 
 ## 文件读写处理
 
