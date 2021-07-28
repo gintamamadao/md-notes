@@ -122,7 +122,7 @@
 - [whatwg-fetch](./whatwg-fetch.md)
 - [got](./got.md)
 
-# 国际化
+## 国际化
 
 - [react-intl](./react-intl.md)
 
