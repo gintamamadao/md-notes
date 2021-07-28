@@ -5,7 +5,4 @@
 
 # Child Node
 
-- [Liftoff 配置](./Liftoff配置.md)
-- [Liftoff api](./Liftoffapi.md)
-
-# liftoff
+# clipanion

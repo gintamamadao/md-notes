@@ -156,6 +156,7 @@
 - [signal-exit](./signal-exit.md)
 - [commander](./commander.md)
 - [liftoff](./liftoff.md)
+- [clipanion](./clipanion.md)
 - [minimist](./minimist.md)
 - [shelljs](./shelljs.md)
 - [inquirer](./inquirer.md)
