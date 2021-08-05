@@ -14,6 +14,6 @@
 - [cookie comment](./cookiecomment.md)
 - [cookie version](./cookieversion.md)
 - [cookie httpOnly](./cookiehttpOnly.md)
-- [cookie SameSite](./cookieSameSite.md)
+- [cookie sameSite](./cookieamesite.md)
 
 # cookie 
