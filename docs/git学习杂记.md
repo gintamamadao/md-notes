@@ -5,6 +5,10 @@
 
 # Child Node
 
+## 2021-07
+
+- [git .gitignore 对 .DS_Store 不起作用](./gitgitignore对DS_Store不起作用.md)
+
 ## 2021-06
 
 - [git 设置代理 proxy](./git设置代理proxy.md)

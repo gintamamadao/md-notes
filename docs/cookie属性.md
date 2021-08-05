@@ -16,4 +16,4 @@
 - [cookie httpOnly](./cookiehttpOnly.md)
 - [cookie sameSite](./cookieamesite.md)
 
-# cookie 
+# cookie 属性
