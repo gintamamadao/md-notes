@@ -7,7 +7,6 @@
 
 # linux 设置文件有所有权限
 
-
 ```sh
 chmod 777 file
 ```
