@@ -56,9 +56,8 @@
 - [postcss](./postcss.md)
 - [postcss-px-to-viewport](./postcss-px-to-viewport.md)
 
-## 前端 ui 相关
+## 前端功能组件
 
-- [react-intl](./react-intl.md)
 - [recyclerlistview](./recyclerlistview.md)
 
 ## 浏览器 api 相关
@@ -74,6 +73,10 @@
 
 - [storybook](./storybook.md)
 - [docz](./docz.md)
+
+## 前端错误上报
+
+- [Sentry](./Sentry.md)
 
 ## 样式开发管理
 
@@ -171,7 +174,7 @@
 - [nodemon](./nodemon.md)
 - [download-git-repo](./download-git-repo.md)
 
-## 文件读写处理
+## 文件格式转换处理
 
 - [json2csv](./json2csv.md)
 - [convert-csv-to-json](./convert-csv-to-json.md)
