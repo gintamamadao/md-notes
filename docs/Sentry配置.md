@@ -25,5 +25,22 @@
   - 忽略的错误类型。对于一些特定的错误可以进行忽略而进行上报。
 
 - integrations: Array<string>
+
   - Sentry 的集成插件，可以定制需要的插件功能。例如使用 CaptureConsole 来捕获控制台输出的错误信息。
   - 具体可参照 Integrations
+
+- debug
+
+  - 是否开启 debug 模式，开启 debug，就会把信息打印到控制台上面
+
+- sampleRate
+
+  - 是否开启随机发送事件给 sentry ，1 为 100%，0.1 为 10%几率发送事件
+
+- attachStacktrace
+
+  - 是否开启堆栈跟踪，开启后跟着消息一起收集
+
+- beforeSend
+
+  - 发送前操作
