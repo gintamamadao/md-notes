@@ -25,36 +25,3 @@ scope.setFingerprint(['{{ default }}', url])
 // 设置附加数据：
 scope.setExtra(‘data’, { request: { a: 1, b: 2 })
 ```
-
-- 创建 scope 有两种方式：
-
-  - 全局 scope
-  - 局部 scope
-
-- 全局 scope 通过 Sentry.configureScope 创建：
-
-```js
-Sentry.configureScope(function (scope) {
-  scope.setTag("my-tag", "my value");
-  scope.setUser({
-    id: 42,
-    email: "john.doe@example.com",
-  });
-});
-```
-
-- 创建后，应用的所有的错误都被关联到当前 scope 信息。
-- 局部 scope 通过 Sentry.withScope 创建：
-
-
-```js
-Sentry.withScope(function (scope) {
-  scope.setTag("my-tag", "my value");
-  scope.setLevel("warning");
-  // will be tagged with my-tag="my value"
-  Sentry.captureException(new Error("my error"));
-});
-
-// will not be tagged with my-tag
-Sentry.captureException(new Error("my other error"));
-```
