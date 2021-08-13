@@ -10,5 +10,6 @@
 - [Sentry 创建设置 scope](./Sentry创建设置scope.md)
 - [Sentry 额外信息上报](./Sentry额外信息上报.md)
 - [Sentry api](./Sentryapi.md)
+- [Sentry react native api](./Sentryreactnativeapi.md)
 
 # Sentry 知识体系
