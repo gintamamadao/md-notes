@@ -7,6 +7,7 @@
 
 ## 2021-07
 
+- [git 批量删除 tag](./git批量删除tag.md)
 - [git .gitignore 对 .DS_Store 不起作用](./gitgitignore对DS_Store不起作用.md)
 
 ## 2021-06

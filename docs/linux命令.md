@@ -12,5 +12,6 @@
 - [linux cp 命令](./linuxcp命令.md)
 - [linux sed 命令](./linuxsed命令.md)
 - [linux chmod 命令](./linuxchmod命令.md)
+- [linux xargs 命令](./linuxxargs命令.md)
 
 # linux 命令
